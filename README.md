@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Third year undergraduate, University of Moratuwa Faculty of Information Technology, Interested in web development with and mobile app development, Have experience in React.js, Node.js, Flutter, Java, C, SQL, MongoDB
+Third year undergraduate, University of Moratuwa Faculty of Information Technology, Interested in web development and mobile app development, Have experience in React.js, Node.js, Flutter, Java, C, SQL, MongoDB
 
 ## 📬 Get in touch
 
