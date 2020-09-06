@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I am a Computer Science Undergraduate from Kurunegala, Sri Lanka and currently studying in Faculty of Science, University of Peradeniya. I am interested in, develop software solutions for and with Java, C, Flutter and NodeJS.
+Third year undergraduate, University of Moratuwa Faculty of Information Technology, Interested in web development with and mobile app development, Have experience in React.js, Node.js, Flutter, Java, C, SQL, MongoDB
 
 ## 📬 Get in touch
 
