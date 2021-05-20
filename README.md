@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=akhilasuraj)
 
 
-<img align="right" alt="GIF" src="https://media1.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif?cid=ecf05e47tcldfx7ov3a4o6ahjmqfmgt363t3s0bh1e5qagrv&rid=giphy.gif&ct=g" width="450" height="235" />
+<img align="right" alt="GIF" src="https://media1.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif?cid=ecf05e47tcldfx7ov3a4o6ahjmqfmgt363t3s0bh1e5qagrv&rid=giphy.gif&ct=g" width="480" height="360" />
 
 Fourth year undergraduate, University of Moratuwa Faculty of Information Technology, Interested in web development and mobile app development, Have experience in React.js, Node.js, Flutter, Java, C, SQL, MongoDB
 
