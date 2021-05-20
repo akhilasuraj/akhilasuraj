@@ -1,5 +1,7 @@
 # Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=akhilasuraj)
+
 Fourth year undergraduate, University of Moratuwa Faculty of Information Technology, Interested in web development and mobile app development, Have experience in React.js, Node.js, Flutter, Java, C, SQL, MongoDB
 
 ## 📬 Get in touch
