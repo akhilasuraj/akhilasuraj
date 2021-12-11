@@ -9,7 +9,8 @@ Fourth year undergraduate, University of Moratuwa Faculty of Information Technol
 
 ## 📬 Get in touch
 
-- LinkedIn : https://www.linkedin.com/in/akhilaabesinghe/
+- LinkedIn: https://www.linkedin.com/in/akhilaabesinghe/
+- Twitter: https://twitter.com/akhilaabesinghe
 - Facebook: https://www.facebook.com/akhilaabesinghe
 
 ## &#x1f4c8; My GitHub Stats
